@@ -1,7 +1,7 @@
 {
     "name": "hgati/multilocationinventory",
     "type": "magento-module",
-    "description": "Support for multiple inventory locations in Magento.",
+    "description": "Support for multiple inventory locations in Magento",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     }
