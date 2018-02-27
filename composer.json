@@ -1,5 +1,5 @@
 {
-    "name": "hgati/multilocationinventory",
+    "name": "hgati/demac-multilocationinventory",
     "type": "magento-module",
     "description": "Support for multiple inventory locations in Magento",
     "require": {
