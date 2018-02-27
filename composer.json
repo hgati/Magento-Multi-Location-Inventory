@@ -1,13 +1,7 @@
 {
-    "name": "demac/multilocationinventory",
+    "name": "hgati/multilocationinventory",
     "type": "magento-module",
     "description": "Support for multiple inventory locations in Magento.",
-    "authors": [
-        {
-            "name": "Demac Media",
-            "email": "support@demacmedia.com"
-        }
-    ],
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     }
